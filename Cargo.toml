@@ -1,0 +1,15 @@
+[package]
+name = "molecular-canvas"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.91"
+derive_more = { version = "1.0.0", features = ["mul", "mul_assign", "add", "add_assign", "deref"] }
+iced = { version = "0.13.0", features = ["advanced", "canvas", "svg"] }
+rustc-hash = "2.0.0"
+thiserror = "1.0.65"
+tracing-subscriber = "0.3.18"
+uuid = { version = "1.10.0", features = ["v4"] }

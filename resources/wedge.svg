@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24px"
+   height="24px"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   color="#000000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wedge.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.175036"
+     inkscape:cx="-1.3141644"
+     inkscape:cy="12.443495"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 3.7828212,19.312946 18.222886,2.4462779 22.211688,6.9284045 Z"
+     stroke="#000000"
+     stroke-width="1.35"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     sodipodi:nodetypes="cccc"
+     style="fill:#000000;fill-opacity:1" />
+</svg>
